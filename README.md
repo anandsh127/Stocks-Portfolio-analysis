@@ -5,5 +5,5 @@ I compared the risk and return of:
 2. Beta weighted Portfolio
 3. Equiweighted portfolio 
 
-     consisting of n number of stocks with benchmark i.e NIFTY 50
-     and taking around last 3000 days of share prices data.
+     consisting of n number of stocks with benchmark i.e NIFTY 50,
+     taken for analysis is last 3000 days of share prices data.
