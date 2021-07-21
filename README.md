@@ -6,4 +6,4 @@ I compared the risk and return of:
 3. Equiweighted portfolio 
 
      consisting of n number of stocks with benchmark i.e NIFTY 50
-     taking around last 3000 days of share prices data.
+     and taking around last 3000 days of share prices data.
